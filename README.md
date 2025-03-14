@@ -17,7 +17,7 @@ Spectra Tiles is looking to gain valuable insights into the performance of shows
 - Subscription Growth Correlation – How content variety impacts user subscriptions (2023 vs. previous years).
 - Quarterly Content Performance – The number of successful titles released in each quarter.
 
-- Dashboard Interaction <a href="https://github.com/inileshverma/Power-BI/blob/main/Spectra%20Studio%20Report.png">View Dashboard</a>
+- <a href="https://github.com/inileshverma/Power-BI/blob/main/Spectra%20Studio%20Report.png">View Dashboard</a>
 
 ## Process
 - Data Collection – I gathered raw data on movies, TV shows, genres, directors, release years, and country-wise distribution.
