@@ -43,10 +43,10 @@ Movies (80.82%) dominate the platform, while TV shows make up a smaller portion 
 Filtering by quarterly data can help determine which periods see higher content releases, allowing strategic planning for future launches.
 
 ## Final Conclusion:
-The Spectra Tiles Data Analysis project successfully provides a data-driven understanding of content performance on the platform. The insights derived from the Power BI dashboard will help the platform owner make informed decisions about content acquisition, genre expansion, and subscriber engagement.
+Through this project, I successfully built an interactive Power BI dashboard that provides valuable insights into Spectra Tiles' content performance. The analysis helps in understanding audience preferences, content trends, and areas for strategic improvement.
 
 By leveraging these findings, Spectra Tiles can:
-✅ Optimize content selection based on audience preferences.
-✅ Expand in high-performing genres and regions.
-✅ Improve strategic planning for content releases in 2024 & 2025.
-✅ Drive higher user engagement and subscription growth.
+- Optimize content selection based on audience preferences.
+- Expand in high-performing genres and regions.
+- Improve strategic planning for content releases in 2024 & 2025.
+- Drive higher user engagement and subscription growth.
